@@ -1,0 +1,21 @@
+00:00:00 Introduction
+00:01:34 Hello World
+00:07:04 counter app
+00:12:28 Show user input
+00:16:47 list of items
+00:19:41 Toggle Switch
+00:23:27 fetch 
+00:28:46 timer
+00:32:21 todo
+00:41:26 Change BG
+00:46:30 routing
+00:52:03 random quote
+00:55:54 upload image
+01:00:03 login registration
+01:18:33 weather app
+01:27:08 search bar 
+01:33:30 pagination
+01:41:02 color picker
+01:46:31 responsive
+01:54:28 light dark 
+02:06:11 shopping cart
